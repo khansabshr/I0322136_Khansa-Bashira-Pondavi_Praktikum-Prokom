@@ -9,4 +9,4 @@ data = {"nama": "khansa", "kelas": "KLS D"}
 
 print(nama_depan)
 print("nama saya adalah khansa")
-print(f"nama saya adalah {nama_depan} {nama_blk} dari kelas {data['kelas']}") 
+print(f"nama saya adalah {nama_depan} {nama_blk} dari kelas {data['kelas']}")
